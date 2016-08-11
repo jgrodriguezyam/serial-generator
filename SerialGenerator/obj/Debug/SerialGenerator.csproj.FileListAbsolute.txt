@@ -1,0 +1,6 @@
+C:\Projects\VS\SerialGenerator\SerialGenerator\bin\Debug\SerialGenerator.exe.config
+C:\Projects\VS\SerialGenerator\SerialGenerator\bin\Debug\SerialGenerator.exe
+C:\Projects\VS\SerialGenerator\SerialGenerator\bin\Debug\SerialGenerator.pdb
+C:\Projects\VS\SerialGenerator\SerialGenerator\obj\Debug\SerialGenerator.csprojResolveAssemblyReference.cache
+C:\Projects\VS\SerialGenerator\SerialGenerator\obj\Debug\SerialGenerator.exe
+C:\Projects\VS\SerialGenerator\SerialGenerator\obj\Debug\SerialGenerator.pdb
